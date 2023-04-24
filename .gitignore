@@ -1,0 +1,5 @@
+data_API_App/requirements.txt
+data_API_App/__pycache__/
+
+data_API_App/migrations/
+*.txt
