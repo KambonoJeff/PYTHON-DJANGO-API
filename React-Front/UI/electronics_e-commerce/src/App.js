@@ -4,14 +4,15 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      console.log("something");
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
+      <p>
         React Starter UI Template For Electronic Ecommerce web based app
         <br/>
         <br/>
-        BY KambonoJeff & SalathielWekesa 
         </p>
+        <img src={logo} className="App-logo" alt="logo" />
+        <h2>By SalathielWekesa & KambonoJeff</h2>
       </header>
     </div>
   );
